@@ -1,5 +1,5 @@
 .. Отчёт кафе documentation master file, created by
-   sphinx-quickstart on Wed Oct 28 23:54:28 2026.
+   sphinx-quickstart on Thu Oct 29 10:42:54 2026.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -16,4 +16,11 @@
 
    usage
    api/modules
+
+Указатели
+---------
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
